@@ -1,1 +1,2 @@
-# EDA
+Module: EDA
+Assignment: EDA
